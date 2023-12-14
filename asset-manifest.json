@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cloud-react-app/static/css/main.c35441c8.css",
-    "main.js": "/cloud-react-app/static/js/main.d62df497.js",
+    "main.js": "/cloud-react-app/static/js/main.0b56ba1c.js",
     "static/js/787.756068d0.chunk.js": "/cloud-react-app/static/js/787.756068d0.chunk.js",
     "index.html": "/cloud-react-app/index.html",
     "main.c35441c8.css.map": "/cloud-react-app/static/css/main.c35441c8.css.map",
-    "main.d62df497.js.map": "/cloud-react-app/static/js/main.d62df497.js.map",
+    "main.0b56ba1c.js.map": "/cloud-react-app/static/js/main.0b56ba1c.js.map",
     "787.756068d0.chunk.js.map": "/cloud-react-app/static/js/787.756068d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c35441c8.css",
-    "static/js/main.d62df497.js"
+    "static/js/main.0b56ba1c.js"
   ]
 }
