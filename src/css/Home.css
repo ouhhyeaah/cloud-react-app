@@ -1,0 +1,54 @@
+.main-container-css{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    flex-direction: column;
+}
+
+.wrap-container{
+    width: 60%;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.post-container{
+    display: flex;
+    flex-direction: column;
+    background-color: #F0F2F5;
+    width: 660px;
+    height: max-content;
+    min-width: 300px;
+    padding: 20px;
+    margin: 40px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.post-container:hover{
+    transform: scale3d(1.01,1.01,1.01%);
+    transition: all .2s ease;
+}
+.user-container{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.email{
+    color: blue;
+    font-weight: bolder;
+}
+.contact-link{
+    display: flex;
+    justify-content: center;
+}
+.filter-button{
+    background-color: darkslategray;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(109, 154, 196);
+  overflow: hidden;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  width: 40vw;
+  height: max-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  min-height: 400px;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-position-x: calc(100% - 10px);
+  background-size: 20%;
+  background-repeat: no-repeat;
+}
+
+input#email {
+  background-image: url(https://img.icons8.com/ultraviolet/40/secured-letter--v1.png);
+}
+.password {
+  background-image: url(https://img.icons8.com/ultraviolet/40/password--v1.png);
+  background-size: auto 90%;
+}
+input.user {
+  background-image: url(https://img.icons8.com/ultraviolet/40/gender-neutral-user.png);
+  background-size: 15%;
+  background-position-y: 50%;
+}
+
+.css-b62m3t-container{
+    width: 100%;
+}
+
+input:focus {
+  background-color: lightblue;
+  background-image: none;
+}
+.job {
+  background-image: url(https://img.icons8.com/ultraviolet/40/new-job.png);
+  background-size: auto 90%;
+  background-position-y: 50%;
+}
+.home {
+  background-image: url(https://img.icons8.com/ultraviolet/40/home.png);
+  background-size: 14%;
+  background-position-y: 50%;
+}
+button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #ee5684;
+}
+.input-line{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.alreadyAccount {
+  margin-top: 20px;
+}
