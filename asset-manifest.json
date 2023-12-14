@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cloud-react-app/static/css/main.c35441c8.css",
-    "main.js": "/cloud-react-app/static/js/main.f5a672f3.js",
-    "static/js/787.756068d0.chunk.js": "/cloud-react-app/static/js/787.756068d0.chunk.js",
-    "index.html": "/cloud-react-app/index.html",
-    "main.c35441c8.css.map": "/cloud-react-app/static/css/main.c35441c8.css.map",
-    "main.f5a672f3.js.map": "/cloud-react-app/static/js/main.f5a672f3.js.map",
-    "787.756068d0.chunk.js.map": "/cloud-react-app/static/js/787.756068d0.chunk.js.map"
+    "main.css": "/static/css/main.c35441c8.css",
+    "main.js": "/static/js/main.55339bea.js",
+    "static/js/787.756068d0.chunk.js": "/static/js/787.756068d0.chunk.js",
+    "index.html": "/index.html",
+    "main.c35441c8.css.map": "/static/css/main.c35441c8.css.map",
+    "main.55339bea.js.map": "/static/js/main.55339bea.js.map",
+    "787.756068d0.chunk.js.map": "/static/js/787.756068d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c35441c8.css",
-    "static/js/main.f5a672f3.js"
+    "static/js/main.55339bea.js"
   ]
 }
